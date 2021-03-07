@@ -2,4 +2,4 @@
 
 ### Conflict(mainブランチ上)
 Github上で更新した
-rebase-practiceブランチ上で更新(２回目)
+rebase-practiceブランチ上で更新(pull時のrebase用)
